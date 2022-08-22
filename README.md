@@ -2,16 +2,16 @@
 
 <p align="left">
   <a href="https://leetcode.com/gullayeshwantkumarruler/">
-    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
+    <img src="https://cp-logo.vercel.app/leetcode/gullayeshwantkumarruler" alt="Leet code rating" />
   </a>
   <a href="https://www.codechef.com/users/yeshwantruler">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/gullayeshwantkumarruler/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/18926275/yeshwant-kumar">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/gullayeshwantkumarruler?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/gullayeshwantkumarruler?color=green&logo=github">
   </a>
   <a href="https://github.com/gullayeshwantkumarruler">
     <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
