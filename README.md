@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Data Scientist working in Bangalore, India
+## Hi 👋, I'm a Quant working in Bangalore, India
 
 <p align="left">
   <a href="https://leetcode.com/gullayeshwantkumarruler/">
